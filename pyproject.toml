@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "polymarket-copy-trading-bot"
 version = "2.0.0"
-description = "Automated copy trading bot for Polymarket that mirrors trades from top performers with intelligent position sizing and real-time execution"
+description = "Professional Polymarket bot, Polymarket trading bot, and Polymarket copy trading bot - Automated copy trading for Polymarket that mirrors trades from top performers with intelligent position sizing and real-time execution"
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
@@ -15,7 +15,27 @@ maintainers = [
     {name = "Dexoryn Labs", email = "dexoryn@dexorynlabs.com"}
 ]
 license = {text = "ISC"}
-keywords = ["polymarket", "trading", "bot", "copy-trading", "defi", "prediction-markets", "polygon"]
+keywords = [
+    "polymarket bot",
+    "polymarket trading bot",
+    "polymarket copy trading bot",
+    "polymarket",
+    "polymarket automation",
+    "polymarket copy trading",
+    "polymarket trading",
+    "polymarket prediction markets",
+    "trading bot",
+    "copy trading",
+    "copy trading bot",
+    "automated trading",
+    "defi",
+    "defi trading",
+    "prediction markets",
+    "polygon",
+    "polygon trading",
+    "automated polymarket",
+    "polymarket defi bot"
+]
 classifiers = [
     "Development Status :: 4 - Beta",
     "Intended Audience :: Financial and Insurance Industry",
@@ -31,6 +51,8 @@ project-urls = {
     "Documentation" = "https://github.com/dexorynLabs/polymarket-copy-trading-bot-v2.0#readme",
     "Repository" = "https://github.com/dexorynLabs/polymarket-copy-trading-bot-v2.0",
     "Issues" = "https://github.com/dexorynLabs/polymarket-copy-trading-bot-v2.0/issues",
+    "Support" = "https://t.me/dexoryn_here",
+    "Twitter" = "https://twitter.com/dexoryn",
 }
 dependencies = [
     "python-dotenv>=1.0.0",

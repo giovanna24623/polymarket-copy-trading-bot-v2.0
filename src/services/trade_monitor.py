@@ -22,7 +22,7 @@ if not USER_ADDRESSES or len(USER_ADDRESSES) == 0:
     raise ValueError('USER_ADDRESSES is not defined or empty')
 
 # WebSocket connection state
-ws: Optional[websockets.client.WebSocketClientProtocol] = None
+ws: Optional[Any] = None  # websockets client connection
 reconnect_attempts = 0
 MAX_RECONNECT_ATTEMPTS = 10
 RECONNECT_DELAY = 5  # 5 seconds
@@ -32,25 +32,36 @@ is_first_run = True
 
 
 async def init():
+    """Initialize trade monitor"""
+    pass
+
 
 async def process_trade_activity(activity: Dict[str, Any], address: str):
+    """Process trade activity from WebSocket"""
+    pass
 
 
 async def update_positions():
-    
+    """Update positions periodically"""
+    pass
+
 
 async def connect_rtds():
-
+    """Connect to RTDS WebSocket"""
+    pass
 
 
 async def reconnect_loop():
-   
+    """Handle reconnection logic"""
+    pass
 
 
 def stop_trade_monitor():
-    
+    """Stop the trade monitor"""
+    pass
 
 
 async def trade_monitor():
-    
+    """Main trade monitor function"""
+    pass
 
